@@ -1,0 +1,19 @@
+Name,age,Gender,Score,city
+John Doe, 17, Male, 88, New York
+Jane Doe,18, Female,  92, New York
+Alice, 16, Female, 85, Los Angeles
+Bob Smith, 17, Male,0, Los Angeles
+John Doe,17,Male,88,New York
+Carol, 18, Female, 79, Chicago
+Eve, 17, Female, 84, Los Angeles
+Michael , 19, Male, 91, Dallas
+Sarah,18, Female, 89, Dallas
+Ron, 18, Male,0, Houston
+Mike Tyson, 17, Male, 75, Houston
+Anna, 17, Female, 80, Boston
+Steve,18,Male, 82 ,Boston
+Emma Watson,17,Female,86, Miami
+Leo Messi,18, Male ,94,Barcelona
+Cristiano ,18, Male,0, Barcelona
+Serena,16,Female,81,Barcelona
+Andy,17,Male,88, Barcelona
